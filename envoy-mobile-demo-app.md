@@ -61,7 +61,7 @@ To provide and maintain our Service, including to monitor the usage of our Servi
 
 To manage Your requests: To attend and manage Your requests to Us.
 
-For other purposes: We may use Your information for other purposes, such as data analysis, identifying usage trends, determining the effectiveness of our promotional campaigns and to evaluate and improve our Service, products, services, marketing and your experience.
+For other purposes: We may use Your information for other purposes, such as data analysis.
 
 
 ### Retention of Your Personal Data
